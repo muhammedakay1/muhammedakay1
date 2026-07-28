@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Muhammed Akay 👋
 
-<!--
-**muhammedakay1/muhammedakay1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student** with a passion for **Cybersecurity** and **Cloud Engineering**.  
+💡 Currently learning Cloud Architecture, DevSecOps, and Automating security tasks using **Python**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+* **Languages:** Python,C, Bash
+* **Domains:** Cybersecurity, Cloud Engineering, Linux System Administration
+* **Tools & Platforms:** Linux, Git/GitHub, TryHackMe, Docker *(Learning)*
+
+---
+
+### 🎯 Current Focus & Goals
+
+- ☁️ Specializing in **Cloud Infrastructure & Security** (AWS / Azure)
+- 🛡️ Hands-on practice with **Ethical Hacking & Log Analysis**
+- 🐍 Building automation scripts with **Python**
+
+---
+
+### 📫 Connect with Me
+
+- **LinkedIn:** [https://www.linkedin.com/in/muhammed-akay-960b4a425/](https://linkedin.com)
+- **Email:** muhammedakay.sec@gmail.com
+
+---
+
+⭐️ *“Continuous learning is the key to mastering Cloud & Security.”*
