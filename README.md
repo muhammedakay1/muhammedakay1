@@ -24,7 +24,7 @@
 
 ### 🏅 Certifications & Badges (Sertifikalar ve Rozetler)
 
-[![Cisco Introduction to Cybersecurity](https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/72b11896-50d5-4fe0-b0ac-c2006c0d9ea9/public_url)
+[![Cisco Introduction to Cybersecurity]([https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white](https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png))](https://www.credly.com/badges/72b11896-50d5-4fe0-b0ac-c2006c0d9ea9/public_url)
 
 
 ---
