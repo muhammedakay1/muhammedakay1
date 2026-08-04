@@ -22,10 +22,9 @@
 ---
 
 
-### 🏅 Certifications & Badges (Sertifikalar ve Rozetler)
+### 🏅 Certifications & Badges 
 
-[![Cisco Introduction to Cybersecurity](<img width="340" height="340" alt="image" src="https://github.com/user-attachments/assets/e20e56b6-ea46-4c7e-886c-8b2d030c499f" />
-)[(https://www.credly.com/badges/72b11896-50d5-4fe0-b0ac-c2006c0d9ea9/public_url)]
+[![Cisco Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)]((https://www.credly.com/badges/72b11896-50d5-4fe0-b0ac-c2006c0d9ea9/public_url))
 
 
 ---
