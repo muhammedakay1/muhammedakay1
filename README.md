@@ -24,11 +24,12 @@
 
 ### 🏅 Certifications & Badges 
 
-* **Cisco - Introduction to Cybersecurity**
-  [![Badge](https://images.credly.com/size/90x90/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](https://www.credly.com/badges/72b11896-50d5-4fe0-b0ac-c2006c0d9ea9/public_url)
 
-* **Cisco - Linux Unhatched**
-  [![Badge](https://images.credly.com/size/90x90/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png)](https://www.credly.com/badges/4ca4e266-9f18-4fe5-86c9-b6ad5edd3050/public_url)
+
+| Badge | Certification Name | Issuer | Link |
+| :---: | :--- | :---: | :---: |
+| <img src="https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="60"> | **Introduction to Cybersecurity** | Cisco | [Verify Credential](https://www.credly.com/badges/72b11896-50d5-4fe0-b0ac-c2006c0d9ea9/public_url) |
+| <img src="https://images.credly.com/size/110x110/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png" width="60"> | **Linux Unhatched** | Cisco / NDG | [Verify Credential](https://www.credly.com/badges/4ca4e266-9f18-4fe5-86c9-b6ad5edd3050/public_url) |
 
 
 ---
